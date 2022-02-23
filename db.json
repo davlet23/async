@@ -1,0 +1,21 @@
+{
+    "posts":[
+        {
+           "id": 1,
+           "Number": "One",
+           "Country": "USA",
+           "location":"The North America"
+        },
+        {
+            "id": 2,
+            "Number": "Two",
+            "Country": "UK",
+            "location":"Europe"
+         },  {
+            "id": 3,
+            "Number": "Three",
+            "Country": "Switzerland",
+            "location":"Europe"
+         }
+    ]
+}
